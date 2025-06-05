@@ -66,9 +66,3 @@ https://youtrack.example.com/issue/PROJECT-123
 - Ensure your YouTrack has permission to send external HTTP requests.
 - You can expand the script to handle more transitions or include additional fields.
 - You may configure multiple rules for different Chat rooms if needed.
-
----
-
-## 📄 License
-
-MIT License (or your preferred license)
